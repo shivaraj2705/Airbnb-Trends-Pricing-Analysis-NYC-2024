@@ -152,6 +152,3 @@ GitHub: https://github.com/shivaraj2705
 LinkedIn: https://www.linkedin.com/in/shivaraj-neelannavar-83069129a/
 Repository: https://github.com/shivaraj2705/Airbnb-Trends-Pricing-Analysis-NYC-2024
 
-🔗 LinkedIn: https://www.linkedin.com/in/shivaraj-neelannavar-83069129a/
-
-📁 Repository: https://github.com/shivaraj2705/Airbnb-Trends-Pricing-Analysis-NYC-2024
